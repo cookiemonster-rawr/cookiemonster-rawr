@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I AM GONNA DOCUMENT MYY CODING JOURNEY HERE SOO ALL THE PROJECTS I DO.
 - my goal is to do a project every week so this is gonna keep me accoutable CRYING EMOJI.
 - CONFUSED
+- SO CONFUSED
 
 <!---
 cookiemonster-rawr/cookiemonster-rawr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
